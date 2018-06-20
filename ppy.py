@@ -1,0 +1,2 @@
+#haspr
+print("jopka")
