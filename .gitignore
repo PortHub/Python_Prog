@@ -1,0 +1,10 @@
+
+__pycache__/varianty.cpython-36.pyc
+build/exe.win32-3.6/lib/xml/parsers/expat.pyc
+*.exe
+*.dll
+*.pyc
+*.pyd
+*.css
+*.zip
+*.rst

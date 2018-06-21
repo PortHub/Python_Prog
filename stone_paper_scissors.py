@@ -22,15 +22,15 @@ while status == True:
     elif text not in variki:
         print("Помилка введення")
     elif text == konest:
-        nichiya =+ 1
+        nichiya += 1
         print("Нічия))")
     elif text != konest:
         a = varianty.sravnenie(text, konest)
         if a == text:
-            win =+ 1
+            win += 1
             print("Перемога!")
         else:
-            lose =+ 1
+            lose += 1
             print("Випробуй удачу ще раз)")
 else:
     print("Бувай")

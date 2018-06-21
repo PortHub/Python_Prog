@@ -1,2 +1,0 @@
-#haspr
-print("jopka")
